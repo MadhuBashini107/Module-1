@@ -30,5 +30,8 @@ print(string_double_quotes)
 ```
 ## OUTPUT
 
-## RESULT
+<img width="748" height="298" alt="image" src="https://github.com/user-attachments/assets/d84e62a0-3d99-4da0-afc6-2432efd3f030" />
 
+
+## RESULT
+Thus, the Python program for printing a multiline string was implemented and executed successfully.
